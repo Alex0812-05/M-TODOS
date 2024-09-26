@@ -1,4 +1,4 @@
-# M-TODOS
+# MÉTODOS
 Projeto utilizando Java, com 1 classe se referindo aos Métodos e a outra como Principal para executar o projeto.
 
 🚀 Começando
